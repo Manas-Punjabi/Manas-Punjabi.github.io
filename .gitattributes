@@ -1,0 +1,5 @@
+* text=auto
+*.png -text
+*.pdf -text
+# GitHub Pages reads this file verbatim; keep it LF with no stray CR
+CNAME text eol=lf

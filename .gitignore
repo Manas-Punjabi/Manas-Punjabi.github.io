@@ -1,0 +1,11 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local editor / tooling config
+.claude/
+.vscode/
+.idea/
+
+README.md
